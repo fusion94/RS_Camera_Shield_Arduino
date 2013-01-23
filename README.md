@@ -7,6 +7,8 @@ This example will deal with the Radio Shack Camera Shield for Arduino
 ### The Details:
 COMING SOON.
 
+http://www.radioshack.com/product/index.jsp?productId=16513056
+
 ### Contributing:
 If you care to contribute at all then please see the [CONTRIBUTING File](https://github.com/fusion94/RS_Camera_Shield_Arduino/blob/master/CONTRIBUTING.md) for more details.
 
